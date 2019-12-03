@@ -9,6 +9,7 @@ struct keytab {
 struct keytab keywrds[13] = {
 	{0,"int"},
 	{0, "float"},
+	{0, "if"},
 	{0, "return"},
 	{0, "for"},
 	{0, "while"},
